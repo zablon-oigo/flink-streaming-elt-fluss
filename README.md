@@ -3,8 +3,11 @@
 
 This project demonstrate a streaming ELT job from PostgreSQL to Fluss using Flink CDC, including full-database synchronization and schema change evolution. 
 
+#### Architecture Diagram
+<img width="491" height="212" alt="fluss drawio" src="https://github.com/user-attachments/assets/8fd6be8a-0680-4afd-a3c8-3a1822c1a033" />
 
-## Demo
+
+#### Demo
 
 Connect to PostgreSQL:
 
